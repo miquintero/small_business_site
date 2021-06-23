@@ -4,12 +4,15 @@ import React from 'react'
 const Footer = props => (
   <footer id="footer">
     <section>
-      <h2>Aliquam sed mauris</h2>
+      <h2>Accepted insurance companies</h2>
       <p>
-        Sed lorem ipsum dolor sit amet et nullam consequat feugiat consequat
-        magna adipiscing tempus etiam dolore veroeros. eget dapibus mauris. Cras
-        aliquet, nisl ut viverra sollicitudin, ligula erat egestas velit, vitae
-        tincidunt odio.
+        <ul>
+          <li>Anthem</li>
+          <li>BlueCross and BlueShield</li>
+          <li>CareFirst</li>
+          <li>Cigna</li>
+          <li>Out of Network</li>
+        </ul>
       </p>
       <ul className="actions">
         <li>
@@ -20,15 +23,13 @@ const Footer = props => (
       </ul>
     </section>
     <section>
-      <h2>Etiam feugiat</h2>
+      <h2>Contact me</h2>
       <dl className="alt">
-        <dt>Address</dt>
-        <dd>1234 Somewhere Road &bull; Nashville, TN 00000 &bull; USA</dd>
         <dt>Phone</dt>
-        <dd>(000) 000-0000 x 0000</dd>
+        <dd>(703) 864-2926</dd>
         <dt>Email</dt>
         <dd>
-          <a href="https://codebushi.com">information@untitled.tld</a>
+          <a href="https://codebushi.com">magalyschaefferllc@gmail.com</a>
         </dd>
       </dl>
       <ul className="icons">

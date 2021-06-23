@@ -41,14 +41,12 @@ class Index extends React.Component {
             <div className="spotlight">
               <div className="content">
                 <header className="major">
-                  <h2>Ipsum sed adipiscing</h2>
+                  <h2>About me</h2>
                 </header>
-                <p>
-                  Sed lorem ipsum dolor sit amet nullam consequat feugiat
-                  consequat magna adipiscing magna etiam amet veroeros. Lorem
-                  ipsum dolor tempus sit cursus. Tempus nisl et nullam lorem
-                  ipsum dolor sit amet aliquam.
-                </p>
+                <div>
+                  <p>Licensed psychotherapist in Virginia with over 20 years of experience.</p>
+                  <p>I am a bicultural - bilingual (SPANISH) psychotherapist in practice since 1996. My Latin background, management/financial jobs abroad, and international experience has facilitated my work with clients of multiple intercultural and ethnic backgrounds. I am also, a certified Imago, EMDR and Sensorimotor Therapist and a Licensed professional counselor from Virginia.</p>
+                </div>
                 <ul className="actions">
                   <li>
                     <Link to="/generic" className="button">
@@ -65,31 +63,28 @@ class Index extends React.Component {
 
           <section id="first" className="main special">
             <header className="major">
-              <h2>Magna veroeros</h2>
+              <h2>Approaches</h2>
             </header>
             <ul className="features">
               <li>
                 <span className="icon major style1 fa-code"></span>
-                <h3>Ipsum consequat</h3>
+                <h3>Imago</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                  A form of relationship and couples therapy that focuses on transforming conflict into healing and growth through relational connection.
                 </p>
               </li>
               <li>
                 <span className="icon major style3 fa-copy"></span>
-                <h3>Amed sed feugiat</h3>
+                <h3>EMDR</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                An interactive psychotherapy technique used to relieve psychological stress. It is an effective treatment for trauma and post-traumatic stress disorder (PTSD).
                 </p>
               </li>
               <li>
                 <span className="icon major style5 fa-diamond"></span>
-                <h3>Dolor nullam</h3>
+                <h3>Sensorimotor Therapy</h3>
                 <p>
-                  Sed lorem amet ipsum dolor et amet nullam consequat a feugiat
-                  consequat tempus veroeros sed consequat.
+                Is designed to reduce the dysregulated autonomic arousal patterns that often hijack a client’s ability to remain cognitively connected during the treatment process.
                 </p>
               </li>
             </ul>
@@ -97,7 +92,7 @@ class Index extends React.Component {
               <ul className="actions">
                 <li>
                   <Link to="/generic" className="button">
-                    Learn More
+                    Contact me
                   </Link>
                 </li>
               </ul>
@@ -106,46 +101,35 @@ class Index extends React.Component {
 
           <section id="second" className="main special">
             <header className="major">
-              <h2>Ipsum consequat</h2>
+              <h2>Areas of expertise</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
-                <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
-              </p>
+                If you find yourself depressed, arguing with your partner all the time, feeling trapped, disconnected, misunderstood, and sad, you might benefit from therapy. 
+                If you tend to get easily trigger by your past negative experiences and live in a state of constant anxiety/depression without being able to control your emotions, you might be suffering from trauma.              </p>
             </header>
             <ul className="statistics">
               <li className="style1">
                 <span className="icon fa-code-fork"></span>
-                <strong>5,120</strong> Etiam
+                <strong>Couples</strong>Relationships
               </li>
               <li className="style2">
                 <span className="icon fa-folder-open-o"></span>
-                <strong>8,192</strong> Magna
+                <strong>Anxiety</strong>Excessive worry
               </li>
               <li className="style3">
                 <span className="icon fa-signal"></span>
-                <strong>2,048</strong> Tempus
+                <strong>Trauma</strong>PTSD
               </li>
               <li className="style4">
                 <span className="icon fa-laptop"></span>
-                <strong>4,096</strong> Aliquam
+                <strong>Biculturalism</strong>Culture Shock
               </li>
               <li className="style5">
                 <span className="icon fa-diamond"></span>
-                <strong>1,024</strong> Nullam
+                <strong>Depression</strong>Hopelessness
               </li>
             </ul>
             <p className="content">
-              Nam elementum nisl et mi a commodo porttitor. Morbi sit amet nisl
-              eu arcu faucibus hendrerit vel a risus. Nam a orci mi, elementum
-              ac arcu sit amet, fermentum pellentesque et purus. Integer maximus
-              varius lorem, sed convallis diam accumsan sed. Etiam porttitor
-              placerat sapien, sed eleifend a enim pulvinar faucibus semper quis
-              ut arcu. Ut non nisl a mollis est efficitur vestibulum. Integer
-              eget purus nec nulla mattis et accumsan ut magna libero. Morbi
-              auctor iaculis porttitor. Sed ut magna ac risus et hendrerit
-              scelerisque. Praesent eleifend lacus in lectus aliquam porta. Cras
-              eu ornare dui curabitur lacinia.
+            If your relationship is no longer working, and you are thinking that perhaps the only solution is separation, there is hope and help for it. Using Imago, EMDR and Sensorimotor Therapy clients will be able to process and integrate their traumas and live a fulfilled life.
             </p>
             <footer className="major">
               <ul className="actions">
@@ -160,11 +144,11 @@ class Index extends React.Component {
 
           <section id="cta" className="main special">
             <header className="major">
-              <h2>Congue imperdiet</h2>
+              <h2>Availability</h2>
               <p>
-                Donec imperdiet consequat consequat. Suspendisse feugiat congue
-                <br />
-                posuere. Nulla massa urna, fermentum eget quam aliquet.
+                Not currently taking new clients. </p>
+              <p>
+                Contact me for referrals to psychotherapists and psychiatrists. 
               </p>
             </header>
             <footer className="major">
