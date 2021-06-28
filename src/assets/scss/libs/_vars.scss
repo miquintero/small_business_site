@@ -10,8 +10,8 @@
 
 // Size.
 	$size: (
-		border-radius:		8px,
-		border-radius-main:	0.25em,
+		border-radius:		0px,
+		border-radius-main:	0px,
 		element-height:		2.75em,
 		element-margin:		2em,
 		inner:				64em
@@ -28,9 +28,9 @@
 
 // Palette.
 	$palette: (
-		bg:					#935d8c,
+		bg:					#192841,
 		fg:					rgba(255,255,255,0.65),
-		fg-bold:			#ffffff,
+		fg-bold:			#D1603D,
 		fg-light:			rgba(255,255,255,0.5),
 		border:				rgba(255,255,255,0.35),
 		border-bg:			rgba(255,255,255,0.075),
@@ -38,23 +38,23 @@
 		border2-bg:			rgba(255,255,255,0.2),
 
 		invert: (
-			bg:				#ffffff,
-			bg-alt:			#f7f7f7,
-			fg:				#636363,
-			fg-bold:		#636363,
-			fg-light:		rgba(99,99,99,0.25),
-			border:			#dddddd,
+			bg:				#192841,
+			bg-alt:			#b0b3b8,
+			fg:				#ffffff,
+			fg-bold:		#D1603D,
+			fg-light:		rgba(32, 18, 18, 0.25),
+			border:			#D1603D,
 			border-bg:		rgba(222,222,222,0.25),
 			border2:		#dddddd,
 			border2-bg:		rgba(222,222,222,0.5),
 		),
 
-		accent:				#8cc9f0,
-		accent1:			#efa8b0,
-		accent2:			#c79cc8,
-		accent3:			#a89cc8,
-		accent4:			#9bb2e1,
-		accent5:			#8cc9f0,
+		accent:				#ffffff,
+		accent1:			#fefefe,
+		accent2:			#ededed,
+		accent3:			#d0d0d0,
+		accent4:			#b5b5b5,
+		accent5:			#9a9a9a,
 		bg1:				#e37682,
 		bg2:				#5f4d93
 	);
