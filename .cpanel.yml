@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/miquintero/public/
+    - export DEPLOYPATH=/home/miquintero/public_html/
     - /bin/cp -R public/* $DEPLOYPATH
