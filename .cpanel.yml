@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/magaly5/repositories/small_business_site/
+    - export DEPLOYPATH=/home/magaly5/public_html/
     - /bin/cp -R public/* $DEPLOYPATH
