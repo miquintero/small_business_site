@@ -45,40 +45,28 @@ class Generic extends React.Component {
             <span className="image main"><img src={pic05} alt="" /></span>
             <h2>Background</h2>
             <p>I have always dreamed of being a psychotherapist but for a variety of reasons I studied business and worked for
-            international organizations for a number of years in Venezuela, Bolivia, North
-            Korea, and the United States. My counseling career began in 1996, in
+            international organizations. My work took me to Venezuela, Bolivia, and North
+            Korea. My counseling career began in 1996, in
             Atlanta where I counseled low-income patients with chronic mental illness. This
-            opportunity allowed me discover my passion for helping people uncover their
-            inner strengths, be more aware of themselves, and experience the magical
-            results of their journey.</p>
-            <p>I opened my private practice in
-            Atlanta. I counseled a diverse group of individuals and couples with multiple
-            issues, anxiety, depression, trauma, and identity. In the same period, I helped
-            create the Hispanic Mental Health unit for Positive Impact, Inc. This unit
-            provided individual, couples and family counseling to clients diagnosed with
+            opportunity allowed me discover my passion for helping people develop self-awareness and experience the magical
+            results of uncovering their inner strengths.</p>
+            <p>I, then, opened my private practice and counseled a diverse group of individuals and couples with multiple
+            issues, anxiety, depression, and trauma. In the same period, I helped
+            create the Hispanic Mental Health Department for Positive Impact. This department
+            provided individual and couples counseling to clients living with
             HIV/AIDS.
             </p>
             <p>
-            In Atlanta I worked as a Crisis
-            Management Consultant assisting clients in distress after a traumatic
-            experience via telephone assisting clients countrywide. I had the opportunity
-            to travel to New York twice after the September 11, 2001 terrorist attack to
-            counsel and debrief traumatized and grieving survivors.
+            After the September 11th terrorist attack I was given the opportunity to
+            counsel and debrief traumatized and grieving survivors in New York City.
             </p>
             <p>
-            In 2004, I became a Certified Imago
-            Relationship Therapist. This training allowed me to counsel couples more
-            effectively. I also had the opportunity to move to La Paz, Bolivia and opened
-            my practice practice. I also counseled inmates at a Women’s jail in La Paz as a
-            volunteer.
+            When I was living in La Paz, Bolivia I provided pro-bono therapy to inmates at a women’s jail where they lived with their children.
             </p>
             <p>Since 2007, I have lived in Northern Virginia first working part-time
             at the Whitman Walker Clinic and since 2009 I have maintained a private practice.
-            Currently I only work via tele-health.
-            </p>
-            <p>In the past ten years, I have strengthened my ability to work
-            with clients who have experienced trauma through training in EMDR, Sensorimotor
-            Therapy and internal family systems.
+            Currently I only work via tele-health and I use multiple methodologies including Imago, EMDR, Sensorimotor
+            Therapy, and internal family systems.
             </p>          
           </section>
         </div>

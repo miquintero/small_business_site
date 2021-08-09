@@ -47,7 +47,9 @@ class Index extends React.Component {
                   <h2>Welcome</h2>
                 </header>
                 <div>
-                  <p>Are you feeling upset, uneasy, anxious, and disconnected? Struggling in your relationship? Easily dysregulated? My goal is to be present, to listen, and work together to unpack your experiences and help you identify and understand the sources of your emotional pain, to help you heal and reconnect again.</p>
+                  <p>Are you feeling upset, uneasy, anxious, and disconnected? Struggling in your relationship? Easily dysregulated?</p> 
+                  <p>My goal is to work together to unpack your experiences and help you identify the sources of your emotional pain, to help you heal and reconnect again.</p>
+                  <p>Trauma-informed, multicultural, LGBTQIA friendly, Bilingual (Spanish)</p>
                 </div>
                 <ul className="actions">
                   <li>
@@ -68,17 +70,13 @@ class Index extends React.Component {
               <h2>My Approach</h2>
             </header>
             <p>
-            If you tend to get easily triggered by your past
-            negative experiences and live in a state of constant anxiety/depression without
-            being able to control your emotions, you might be suffering from trauma.
+            If you tend to get easily triggered by your past experiences and live with anxiety/depression with
+            difficulty controlling your emotions, you might be suffering from trauma. Using EMDR and Sensorimotor Therapy clients will be able to process and integrate their
+            traumas and live a fulfilled life. 
             </p>
-
             <p>
-            Using EMDR and Sensorimotor Therapy clients will be able to process and integrate their
-            traumas and live a fulfilled life. If you find yourself depressed, arguing with
-            your partner all the time, feeling trapped, disconnected, misunderstood, and sad. If
-            your relationship is no longer working, and you are thinking that perhaps the
-            only solution is separation, there is hope and help available. Using Imago
+            If you find yourself depressed, arguing with
+            your partner all the time, feeling trapped, disconnected, misunderstood, and sad. Using Imago
             therapy, couples will be able to understand, process, and accept their
             differences, identify their triggers, and learn to control their reactivity.
             They will learn to listen and communicate effectively, and hopefully rekindle
@@ -118,9 +116,6 @@ class Index extends React.Component {
           <section id="second" className="main special">
             <header className="major">
               <h2>Areas of Expertise</h2>
-              <p>
-                If you find yourself depressed, arguing with your partner all the time, feeling trapped, disconnected, misunderstood, and sad, you might benefit from therapy. 
-                If you tend to get easily trigger by your past negative experiences and live in a state of constant anxiety/depression without being able to control your emotions, you might be suffering from trauma.              </p>
             </header>
             <ul className="statistics">
               <li className="style1">
@@ -144,9 +139,6 @@ class Index extends React.Component {
                 <strong>Depression</strong>Hopelessness
               </li>
             </ul>
-            <p className="content">
-            If your relationship is no longer working, and you are thinking that perhaps the only solution is separation, there is hope and help for it. Using Imago, EMDR and Sensorimotor Therapy clients will be able to process and integrate their traumas and live a fulfilled life.
-            </p>
           </section>
 
           <section id="cta" className="main special">
@@ -154,10 +146,12 @@ class Index extends React.Component {
               <h2>Contact Me</h2>
             </header>
               <p>
+                <h3>Magaly Schaeffer, LPC, MBA</h3>
                 <strong>Phone</strong><br></br>
                 703-864-2926<br></br><br></br>
                 <strong>Email</strong><br></br>
-                  <a href = "mailto: magalyschaefferllc@gmail.com">magalyschaefferllc@gmail.com</a>
+                  <a href = "mailto: magalyschaefferllc@gmail.com">magalyschaefferllc@gmail.com</a><br></br><br></br>
+                <strong><a href="https://www.psychologytoday.com/us/therapists/magaly-schaeffer-llc-falls-church-va/64183">Psychology Today</a></strong>
              </p>
           </section>
         </div>
