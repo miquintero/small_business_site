@@ -136,7 +136,7 @@ var plugins = [{
     "plugins": [],
     "name": "gatsby-starter-default",
     "short_name": "starter",
-    "start_url": "home",
+    "start_url": "/",
     "background_color": "#663399",
     "theme_color": "#663399",
     "display": "minimal-ui",
