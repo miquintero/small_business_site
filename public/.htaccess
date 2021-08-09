@@ -220,6 +220,8 @@ AddDefaultCharset utf-8
     # (1)
     RewriteEngine On
 
+    DirectoryIndex index.html
+
     # (2)
     
     Options +FollowSymLinks
