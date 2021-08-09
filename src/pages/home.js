@@ -49,7 +49,7 @@ class Index extends React.Component {
                 <div>
                   <p>Are you feeling upset, uneasy, anxious, and disconnected? Struggling in your relationship? Easily dysregulated?</p> 
                   <p>My goal is to work together to unpack your experiences and help you identify the sources of your emotional pain, to help you heal and reconnect again.</p>
-                  <p>Trauma-informed, multicultural, LGBTQIA friendly, Bilingual (Spanish)</p>
+                  <p>I am a trauma-informed, multicultural, LGBTQIA friendly, Bilingual (Spanish) with 25 years of experience.</p>
                 </div>
                 <ul className="actions">
                   <li>
