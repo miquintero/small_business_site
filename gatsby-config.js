@@ -1,5 +1,6 @@
 module.exports = {
   siteMetadata: {
+    title: "Magaly Schaeffer",
     description: "A Gatsby.js Starter based on Stellar by HTML5 UP"
   },
   plugins: [
